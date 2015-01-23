@@ -1,4 +1,4 @@
-priver.github.io
-================
+priver.org
+==========
 
 http://priver.org/
